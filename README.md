@@ -1,84 +1,69 @@
-# Hi, I'm Anshita 👋  
-### Quantitative Finance | Risk Modeling | Options & Volatility
+# Anshita Vairalkar
+
+Quantitative Finance | Risk Modeling | Options & Volatility
 
 ---
 
-## 🚀 About Me
-I am a **Maths & Computing undergraduate** with a strong focus on **quantitative finance**,  
-risk modeling, and **derivatives trading**.
+## About
+I am a Maths & Computing undergraduate with a strong interest in quantitative finance, 
+risk modeling, and derivatives markets.
 
-My interests lie at the intersection of:
-- Probability & stochastic processes
-- Market microstructure
-- Options pricing & volatility dynamics
-- Systematic trading and risk management
+My work focuses on understanding market behavior through probability, statistics, 
+and systematic modeling rather than discretionary intuition.
 
 ---
 
-## 🧠 Core Competencies
-- Value-at-Risk (VaR) & Expected Shortfall (CVaR)
-- Monte Carlo simulations
-- Options Greeks & payoff modeling
-- Time-series analysis
-- Backtesting & signal generation
-- Risk-adjusted performance metrics
+## Areas of Focus
+- Value-at-Risk (VaR) and Expected Shortfall (CVaR)
+- Monte Carlo simulation methods
+- Options pricing and Greeks analysis
+- Volatility dynamics and tail risk
+- Time-series analysis and backtesting
+- Risk-adjusted performance evaluation
 
 ---
 
-## 🛠 Tech Stack
-**Languages**
+## Technical Skills
+**Programming**
 - Python
 - SQL
 
-**Libraries**
+**Libraries & Tools**
 - NumPy, Pandas
 - SciPy, Statsmodels
-- Matplotlib, Seaborn
+- Matplotlib (research use)
 - scikit-learn
-
-**Trading & Data**
-- IBKR API (TWS / Gateway)
-- Options chain analysis
-- Tick & OHLCV data
+- Interactive Brokers API (TWS / Gateway)
 
 ---
 
-## 📌 Featured Projects
-🔹 **Monte Carlo Simulation for VaR & Expected Shortfall**  
-- Simulated return distributions
-- Historical vs parametric VaR
-- Tail-risk analysis using CVaR  
-👉 [View Repository](https://github.com/AnshitaVairalkar/Monte_Carlo_Simulation_VaR_Expected_Shortfall)
+## Selected Projects
+**Monte Carlo Simulation for VaR and Expected Shortfall**  
+- Simulation-based estimation of downside risk  
+- Comparison of historical, parametric, and Monte Carlo VaR  
+- Tail-risk measurement using CVaR  
+Repository:  
+https://github.com/AnshitaVairalkar/Monte_Carlo_Simulation_VaR_Expected_Shortfall
 
-🔹 **Options Strategy Backtesting Framework**
-- Greeks-aware PnL modeling
-- Expiry-wise position handling
-- Risk-controlled execution logic
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshitaVairalkar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshitaVairalkar&theme=tokyonight" />
-</p>
- 
- 
-## 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshitaVairalkar&layout=compact&theme=tokyonight" />
-</p>
+**Options Strategy Research Framework**  
+- Greeks-aware PnL modeling  
+- Expiry-wise position handling  
+- Risk-controlled execution logic  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: *(add link)*
+## Current Interests
+- Market microstructure
+- Short-dated options and expiry dynamics
+- Volatility surface behavior
+- Risk modeling under non-normal return distributions
+
+---
+
+## Contact
 - GitHub: https://github.com/AnshitaVairalkar
-- Email: *(optional)*
+- LinkedIn: (add link if desired)
 
 ---
 
-> *“Risk is not what you don’t know. It’s what you think you know that isn’t so.”*
+“Risk is not what you don’t know. It is what you think you know that isn’t so.”
