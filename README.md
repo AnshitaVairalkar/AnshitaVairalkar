@@ -56,18 +56,17 @@ My interests lie at the intersection of:
 - Risk-controlled execution logic
 
 ---
-
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshitaVairalkar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshitaVairalkar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshitaVairalkar&theme=tokyonight" />
 </p>
-
----
-
+ 
+ 
 ## 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshitaVairalkar&layout=compact&theme=tokyonight" />
