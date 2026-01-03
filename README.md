@@ -6,7 +6,6 @@ Quantitative Research | Algorithmic Trading | Derivatives & Risk Modeling
 
 ## About
 I am a quantitative researcher with a background in Mathematics, Computing, and Data Science, focused on building systematic, probability driven models for financial markets. My work centers on risk modeling, derivatives analysis, and algorithmic trading, with an emphasis on robustness and execution realism.
-
 I approach markets as stochastic systems, prioritizing distributional behavior, tail risk, and volatility dynamics over discretionary interpretation. My experience spans the full strategy lifecycle from data engineering and statistical modeling to backtesting, risk evaluation, and live trade monitoring.
 ---
 
