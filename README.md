@@ -1,16 +1,13 @@
 # Anshita Vairalkar
 
-Quantitative Finance | Risk Modeling | Options & Volatility
+Quantitative Research | Algorithmic Trading | Derivatives & Risk Modeling
 
 ---
 
 ## About
-I am a Maths & Computing undergraduate with a strong interest in quantitative finance, 
-risk modeling, and derivatives markets.
+I am a quantitative researcher with a background in Mathematics, Computing, and Data Science, focused on building systematic, probability driven models for financial markets. My work centers on risk modeling, derivatives analysis, and algorithmic trading, with an emphasis on robustness and execution realism.
 
-My work focuses on understanding market behavior through probability, statistics, 
-and systematic modeling rather than discretionary intuition.
-
+I approach markets as stochastic systems, prioritizing distributional behavior, tail risk, and volatility dynamics over discretionary interpretation. My experience spans the full strategy lifecycle from data engineering and statistical modeling to backtesting, risk evaluation, and live trade monitoring.
 ---
 
 ## Areas of Focus
@@ -20,7 +17,7 @@ and systematic modeling rather than discretionary intuition.
 - Volatility dynamics and tail risk
 - Time-series analysis and backtesting
 - Risk-adjusted performance evaluation
-
+- Creating own Trading Strategies
 ---
 
 ## Technical Skills
@@ -62,8 +59,8 @@ https://github.com/AnshitaVairalkar/Monte_Carlo_Simulation_VaR_Expected_Shortfal
 
 ## Contact
 - GitHub: https://github.com/AnshitaVairalkar
-- LinkedIn: (add link if desired)
+- LinkedIn: https://www.linkedin.com/in/anshitavairalkar/
 
 ---
 
-“Risk is not what you don’t know. It is what you think you know that isn’t so.”
+“Edge comes from structure, not conviction.”
